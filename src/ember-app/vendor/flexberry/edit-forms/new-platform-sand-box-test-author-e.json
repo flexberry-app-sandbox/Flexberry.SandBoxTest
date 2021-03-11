@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformSandBoxTestAuthorE",
+  "className": "AuthorE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-sand-box-test-author",
+      "modelProjection": "AuthorE"
+    }
+  ]
+}

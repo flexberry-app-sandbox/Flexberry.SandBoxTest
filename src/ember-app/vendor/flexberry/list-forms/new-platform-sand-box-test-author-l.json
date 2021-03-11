@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-sand-box-test-author-e",
+  "editForm": "new-platform-sand-box-test-author-e",
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformSandBoxTestAuthorL",
+  "className": "AuthorL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-sand-box-test-author",
+      "modelProjection": "AuthorL"
+    }
+  ]
+}

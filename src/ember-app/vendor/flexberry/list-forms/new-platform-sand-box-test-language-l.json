@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-sand-box-test-language-e",
+  "editForm": "new-platform-sand-box-test-language-e",
+  "external": false,
+  "caption": "Language",
+  "name": "NewPlatformSandBoxTestLanguageL",
+  "className": "LanguageL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-sand-box-test-language",
+      "modelProjection": "LanguageL"
+    }
+  ]
+}
